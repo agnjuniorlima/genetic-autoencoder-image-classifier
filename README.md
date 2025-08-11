@@ -5,6 +5,10 @@
 
 **Autor:** Agnelo Pereira Lima Júnior
 
+<agnelo.lima@edu.ufes.br>
+
+<agnjuniorlima@gmail.com>
+
 **Data:** 30 de Julho de 2025
 
 ---
@@ -21,6 +25,16 @@ Foi implementado um Algoritmo Genético (GA) em Python para otimizar os hiperpar
 - Tamanho do lote (*batch size*)
 
 A função de fitness utilizada para avaliar cada conjunto de hiperparâmetros foi a acurácia do modelo resultante no conjunto de teste do MNIST. Após 10 gerações, a melhor configuração encontrada foi utilizada para treinar um modelo final de forma mais exaustiva.
+
+**[Clique aqui para acessar o código fonte (Jupyter Notebook)](autoencoder_optimization_ga_image_classification.ipynb)**
+
+#### 2.1. Ambiente de Execução
+O treinamento e a otimização foram realizados em um ambiente com a seguinte configuração:
+- **Processador (CPU):** 12th Gen Intel(R) Core(TM) i7-1265U 1.80 GHz
+- **Memória RAM:** 16,0 GB
+- **Sistema Operacional:** Sistema operacional de 64 bits, processador baseado em x64
+
+---
 
 ### 3. Resultados da Otimização
 
