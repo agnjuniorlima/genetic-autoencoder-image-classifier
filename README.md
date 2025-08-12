@@ -12,6 +12,23 @@
 
 ---
 
+## Resumo dos Resultados
+
+A otimização via Algoritmo Genético encontrou uma arquitetura de rede neural robusta, que após o treinamento final alcançou uma acurácia de **98.08%** no conjunto de teste, um resultado altamente competitivo e próximo ao do artigo de referência.
+
+| Modelo                       | Acurácia     |
+| :--------------------------- | :----------- |
+| **Modelo Otimizado (Esta Tarefa)** | **98.08%** |
+| Artigo de Referência (com GA)  | 98.85% |
+
+---
+
+## Arquivos do Projeto
+
+- **[Código Fonte (Jupyter Notebook)]([autoencoder_optimization_ga_image_classification.ipynb](https://github.com/agnjuniorlima/genetic-autoencoder-image-classifier/blob/main/autoencoder_optimization_ga_image_classification.ipynb))**
+- **[Relatório Final (PDF)]([Relatorio_Final.pdf](https://github.com/agnjuniorlima/genetic-autoencoder-image-classifier/blob/main/relatorio_tecnico_IEEE_Conference_Template.pdf))** 
+
+
 ### 1. Objetivo
 
 Este relatório apresenta os resultados da Tarefa Computacional 2, cujo objetivo era utilizar um Algoritmo Evolutivo (AE) para otimizar os hiperparâmetros de uma rede neural feedforward para a classificação de imagens do dataset MNIST. A análise de eficácia é realizada calculando-se as métricas de Acurácia, Precision, Recall e F-measure, e comparando os resultados com os do artigo de referência, "PARAMETER OPTIMIZATION OF AUTOENCODER FOR IMAGE CLASSIFICATION USING GENETIC ALGORITHM".
