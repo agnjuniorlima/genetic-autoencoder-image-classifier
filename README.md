@@ -25,8 +25,8 @@ A otimização via Algoritmo Genético encontrou uma arquitetura de rede neural 
 
 ## Arquivos do Projeto
 
-- **[Código Fonte (Jupyter Notebook)]([autoencoder_optimization_ga_image_classification.ipynb](https://github.com/agnjuniorlima/genetic-autoencoder-image-classifier/blob/main/autoencoder_optimization_ga_image_classification.ipynb))**
-- **[Relatório Final (PDF)]([Relatorio_Final.pdf](https://github.com/agnjuniorlima/genetic-autoencoder-image-classifier/blob/main/relatorio_tecnico_IEEE_Conference_Template.pdf))** 
+- **[Código Fonte (Jupyter Notebook)](autoencoder_optimization_ga_image_classification.ipynb)**
+- **[Relatório Final (PDF)](https://github.com/agnjuniorlima/genetic-autoencoder-image-classifier/blob/main/relatorio_tecnico_IEEE_Conference_Template.pdf)** 
 
 
 ### 1. Objetivo
